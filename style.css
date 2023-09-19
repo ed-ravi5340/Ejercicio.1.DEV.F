@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    background-color: green;
+}
+
+.container{
+    width: auto;
+    height: 150px;
+    background-color: purple;
+    color: aquamarine;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuerpo{
+    width: auto;
+    height: 600px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
